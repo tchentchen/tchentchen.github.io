@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/tchentchen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://digital313.com
+  * I am tchentchen (https://keybase.io/tchentchen) on keybase.
+  * I have a public key ASAvKJ2KZeBGbK5l54zizGN090RI2yV1i1ob7tQ1Dvv7LAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209e59acf7d0dacce343d4010a3607a1dbe78947225af7031acae07d341f76e5980a",
+      "host": "keybase.io",
+      "kid": "01202f289d8a65e0466cae65e78ce2cc6374f74448db25758b5a1beed4350efbfb2c0a",
+      "uid": "925d2b3f86232890f51abf5527da6819",
+      "username": "tchentchen"
+    },
+    "merkle_root": {
+      "ctime": 1504277802,
+      "hash": "5edd833643d83909bb8faf167def487dac6396b3f25da87cb0c13e6686b579f24b99b9a5bdf244e0d953bbf748526ddd8bea929cbd7d7901dec2223f4c195dda",
+      "hash_meta": "f5e08c76edc6c218602d41043d98cf9cd2586cb94e676cb648f86d8de80da440",
+      "seqno": 1361828
+    },
+    "service": {
+      "hostname": "digital313.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.28"
+  },
+  "ctime": 1504277867,
+  "expire_in": 504576000,
+  "prev": "0a52d1dd2a1e1a6fe1a4811d9fb9b84fa20e3f42ed9dcc32fe968ce9114c8ca8",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgLyidimXgRmyuZeeM4sxjdPdESNsldYtaG+7UNQ77+ywKp3BheWxvYWTFA0h7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOWU1OWFjZjdkMGRhY2NlMzQzZDQwMTBhMzYwN2ExZGJlNzg5NDcyMjVhZjcwMzFhY2FlMDdkMzQxZjc2ZTU5ODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMmYyODlkOGE2NWUwNDY2Y2FlNjVlNzhjZTJjYzYzNzRmNzQ0NDhkYjI1NzU4YjVhMWJlZWQ0MzUwZWZiZmIyYzBhIiwidWlkIjoiOTI1ZDJiM2Y4NjIzMjg5MGY1MWFiZjU1MjdkYTY4MTkiLCJ1c2VybmFtZSI6InRjaGVudGNoZW4ifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDQyNzc4MDIsImhhc2giOiI1ZWRkODMzNjQzZDgzOTA5YmI4ZmFmMTY3ZGVmNDg3ZGFjNjM5NmIzZjI1ZGE4N2NiMGMxM2U2Njg2YjU3OWYyNGI5OWI5YTViZGYyNDRlMGQ5NTNiYmY3NDg1MjZkZGQ4YmVhOTI5Y2JkN2Q3OTAxZGVjMjIyM2Y0YzE5NWRkYSIsImhhc2hfbWV0YSI6ImY1ZTA4Yzc2ZWRjNmMyMTg2MDJkNDEwNDNkOThjZjljZDI1ODZjYjk0ZTY3NmNiNjQ4Zjg2ZDhkZTgwZGE0NDAiLCJzZXFubyI6MTM2MTgyOH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJkaWdpdGFsMzEzLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjgifSwiY3RpbWUiOjE1MDQyNzc4NjcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiMGE1MmQxZGQyYTFlMWE2ZmUxYTQ4MTFkOWZiOWI4NGZhMjBlM2Y0MmVkOWRjYzMyZmU5NjhjZTkxMTRjOGNhOCIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECctoW/eKZiXY8ie3fBuC+ZVJi9QROuRrahLSQhoHdJyqIABRRcowwK4FwM1/NMSErzpmWc37CXvwvpAdFgI5gLqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg/vxlX4xC9g5K4m5L2qhFo/O1RqRXDsKfHFrt3amVOk2jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tchentchen
+
+==================================================================
